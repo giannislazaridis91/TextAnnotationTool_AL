@@ -1,0 +1,202 @@
+{
+    "annotations": [
+        {
+            "type": "image",
+            "page": 1,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "cow"
+        },
+        {
+            "type": "image",
+            "page": 1,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "cow"
+        },
+        {
+            "type": "image",
+            "page": 3,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "goat"
+        },
+        {
+            "type": "image",
+            "page": 3,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "goat"
+        },
+        {
+            "type": "image",
+            "page": 5,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "lama"
+        },
+        {
+            "type": "image",
+            "page": 5,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "sheep"
+        },
+        {
+            "type": "image",
+            "page": 7,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "chicken"
+        },
+        {
+            "type": "image",
+            "page": 7,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "chicken"
+        },
+        {
+            "type": "image",
+            "page": 9,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "horse"
+        },
+        {
+            "type": "image",
+            "page": 9,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "horse"
+        },
+        {
+            "type": "image",
+            "page": 11,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "pig"
+        },
+        {
+            "type": "image",
+            "page": 11,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "pig"
+        },
+        {
+            "type": "image",
+            "page": 13,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "cow"
+        },
+        {
+            "type": "image",
+            "page": 13,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "chicken"
+        },
+        {
+            "type": "image",
+            "page": 15,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "sheep"
+        },
+        {
+            "type": "image",
+            "page": 15,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "horse"
+        },
+        {
+            "type": "image",
+            "page": 17,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "pig"
+        },
+        {
+            "type": "image",
+            "page": 17,
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "width": 300,
+                "height": 200
+            },
+            "label": "sheep"
+        }
+    ]
+}
